@@ -1,1 +1,0 @@
-function rmsspeedout = rmsspeed(trajectory, timeperstep)% This function calculates rms speed (Jim's way) of a trajectory% remember root, mean, squared speed[leng, dists] = p_length(trajectory);clear lengspeed = dists/timeperstep;  % vector of stepwise speedsspeed2 = speed.^2;msspeed = mean(speed2);rmsspeedout = sqrt(msspeed);return
