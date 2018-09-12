@@ -1,1 +1,0 @@
-function  y = sp_func(guess,tau)s = guess(1);P = guess(2);t = tau;y =  (2*(s)^2*(P.*t-P.^2*(1-exp(-t./P))));return
