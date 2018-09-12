@@ -1,2 +1,0 @@
-prompt = 'what'
-x  = 
