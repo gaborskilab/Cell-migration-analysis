@@ -5,3 +5,5 @@ The cell migration analysis is divided into two parts: 1. Cell tracking. 2. Stat
 The core engine for the cell tracking and the persistent random walk model (PRW) is authored by Mike Bindschadler (https://www.researchgate.net/profile/Michael_Bindschadler). The data organization, presentation, and related statsical analysis is authored by Henry Chung (https://www.researchgate.net/profile/Henry_Chung3), along with the help of Sean Bellefeuille, Shannon Gulvin, and Halley Miller.  
 
 The development of the cell migraiton analysis first started at the McGrath Laboratory at the University of Rochester (https://www.urmc.rochester.edu/labs/mcgrath.aspx) and continued at the Gaborski Laboratory at the Rochester Institute of Technology (http://gaborskilab.org/).
+
+[McGrath Laboratory](https://www.urmc.rochester.edu/labs/mcgrath.aspx)
